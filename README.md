@@ -1,5 +1,3 @@
-# (tiana) princesa favorita.
-
 # Boas vindas ao meu perfil!
 
 # meu nome é Geovana,
