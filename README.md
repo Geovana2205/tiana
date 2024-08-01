@@ -5,4 +5,7 @@
 Estudo no alura e estou aprendendo a linguagem JavaScript.
 uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdkYWJtZGIybnBsYTZvYWNscnI2b3N5bnlpeXJkYnhsMHJ3Mzh5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/112zGb6YBw1lT2/giphy.gif)
+# sobre mim;
+gosto de ouvir música˚₊‧꒰ა ☆ ໒꒱ ‧₊˚/amo a princesa tiana🜲/16 anos⋆౨ৎ˚⟡˖ ࣪
+
+![](<iframe src="https://giphy.com/embed/leVokBVhHY1aw" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-walt-disney-animation-studios-tiana-the-princess-and-frog-leVokBVhHY1aw">via GIPHY</a></p>)
